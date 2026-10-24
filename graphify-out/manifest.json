@@ -1,80 +1,86 @@
 {
   ".claude-plugin/marketplace.json": {
-    "mtime": 1792286143.5797238,
-    "seen": 1792286744.7039764,
+    "mtime": 1792841078.6546674,
+    "seen": 1792841266.102337,
     "ast_hash": "caa8f7d40351fc927339cd3ab383b391",
     "semantic_hash": "caa8f7d40351fc927339cd3ab383b391"
   },
   ".claude-plugin/plugin.json": {
-    "mtime": 1792286143.5812402,
-    "seen": 1792286744.7039833,
+    "mtime": 1792841078.6567318,
+    "seen": 1792841266.1023462,
     "ast_hash": "5d0c2e4e60fadad7013639e11011b627",
     "semantic_hash": "5d0c2e4e60fadad7013639e11011b627"
   },
   ".claude/settings.json": {
-    "mtime": 1792286210.1221774,
-    "seen": 1792286744.7039862,
-    "ast_hash": "3b541b9935fcf0831355da956f897645",
-    "semantic_hash": "3b541b9935fcf0831355da956f897645"
+    "mtime": 1792841258.0996833,
+    "seen": 1792841266.1023555,
+    "ast_hash": "c38bb20e57c18e40e438561307f6c54f",
+    "semantic_hash": ""
   },
   ".claude/skills/court/court.py": {
-    "mtime": 1792286143.5815554,
-    "seen": 1792286744.7039876,
+    "mtime": 1792841078.6568801,
+    "seen": 1792841266.1023586,
     "ast_hash": "654f701f48770f9657e03b90e9ed547c",
     "semantic_hash": "654f701f48770f9657e03b90e9ed547c"
   },
   ".claude/skills/court/jurors.json": {
-    "mtime": 1792286143.5815554,
-    "seen": 1792286744.703989,
+    "mtime": 1792841078.6568801,
+    "seen": 1792841266.1023612,
     "ast_hash": "cc1760f30c40cc31133960e6ef8b481f",
     "semantic_hash": "cc1760f30c40cc31133960e6ef8b481f"
   },
   ".claude/CLAUDE.md": {
-    "mtime": 1792286210.1205282,
-    "seen": 1792286744.7039905,
+    "mtime": 1792841078.6567318,
+    "seen": 1792841266.102363,
     "ast_hash": "9b31786b637be3c13978bec4c2330752",
     "semantic_hash": "9b31786b637be3c13978bec4c2330752"
   },
   ".claude/skills/court/SKILL.md": {
-    "mtime": 1792286143.5815554,
-    "seen": 1792286744.703992,
+    "mtime": 1792841078.6568801,
+    "seen": 1792841266.1023653,
     "ast_hash": "87eabe2da6998e4935d02ad405b281b0",
     "semantic_hash": "87eabe2da6998e4935d02ad405b281b0"
   },
   "CLAUDE.md": {
-    "mtime": 1792286210.1216795,
-    "seen": 1792286744.7039928,
+    "mtime": 1792841078.658351,
+    "seen": 1792841266.1023672,
     "ast_hash": "ac31b74e41027852a8ad36eee240acb3",
     "semantic_hash": "ac31b74e41027852a8ad36eee240acb3"
   },
   "CURSOR.md": {
-    "mtime": 1792286143.5820224,
-    "seen": 1792286744.7039938,
+    "mtime": 1792841078.658351,
+    "seen": 1792841266.102369,
     "ast_hash": "27c054ea4f62aa7427c170a82e62e353",
     "semantic_hash": "27c054ea4f62aa7427c170a82e62e353"
   },
   "EXAMPLES.md": {
-    "mtime": 1792286143.5820224,
-    "seen": 1792286744.703995,
+    "mtime": 1792841078.658351,
+    "seen": 1792841266.1023712,
     "ast_hash": "91d97fa4d72a51997a70f28268e1b5d1",
     "semantic_hash": "91d97fa4d72a51997a70f28268e1b5d1"
   },
   "README.md": {
-    "mtime": 1792286143.5820224,
-    "seen": 1792286744.7039962,
+    "mtime": 1792841078.658351,
+    "seen": 1792841266.1023736,
     "ast_hash": "2c53f1fce191015afb866aa591ccff33",
     "semantic_hash": "2c53f1fce191015afb866aa591ccff33"
   },
   "README.zh.md": {
-    "mtime": 1792286143.5820224,
-    "seen": 1792286744.7039976,
+    "mtime": 1792841078.658351,
+    "seen": 1792841266.1023757,
     "ast_hash": "9d2e8f051146b1113d6144739f1e4d40",
     "semantic_hash": "9d2e8f051146b1113d6144739f1e4d40"
   },
   "skills/karpathy-guidelines/SKILL.md": {
-    "mtime": 1792286143.582708,
-    "seen": 1792286744.7039988,
+    "mtime": 1792841078.6612291,
+    "seen": 1792841266.1023774,
     "ast_hash": "568fe33228692e85543530ce376f695f",
     "semantic_hash": "568fe33228692e85543530ce376f695f"
+  },
+  ".claude/hooks/session-start.sh": {
+    "mtime": 1792841258.073277,
+    "seen": 1792841266.1023517,
+    "ast_hash": "640f2d5dc3976456040d2cd819159d7b",
+    "semantic_hash": ""
   }
 }
